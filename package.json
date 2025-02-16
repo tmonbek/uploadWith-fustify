@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fastify/multipart": "^9.0.3",
+    "@types/node": "^22.13.4",
+    "fastify": "^5.2.1"
+  }
+}
